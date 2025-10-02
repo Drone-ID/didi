@@ -1,2 +1,1 @@
-# didi
-Drone ID Initiative
+# DIDI – Drone ID Initiative
