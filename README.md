@@ -4,6 +4,14 @@
 
 The role of Unmanned Aerial Vehicles (UAVs) has evolved into the so-called dual use at an unprecedented scale. What was previously a clear distinction between civil and military applications has now become increasingly vague and unpredictable. This is particularly evident in the case of civil UAVs, more broadly known as drones, which pose emerging threats. In order to protect the assets and infrastructure of nations, we propose an identification protocol – Drone ID (DID) – that makes it possible to determine a drone's origin, extendable with additional properties such as "[friend-or-foe](https://en.wikipedia.org/wiki/Identification_friend_or_foe)" paradigm.
 
+### The demand for decentralization
+
+Unmanned vessels at scale have emerged upon the battlefield of Ukraine. Today, the first signs indicate that this paradigm is reaching new territories, testing the resilience of airports against such evolving threats. Developing an exhaustive response requires new conceptual approaches that can function in a decentralized manner. The need for decentralization becomes clear once one recognizes that no terrain of sufficient size can be adequately protected using existing technologies. Thus, decentralization as a way to focus on critical "hot spots" in the field is a path forward. Naturally, physical decentralization does not preclude digital aggregation, especially when considering data flows. However, given the cross-sector nature of these systems, achieving a unified framework at an adequate pace may prove challenging. Therefore, by also decentralizing digital systems, sectors can adapt independently and pursue convergence at a later stage.
+
+### The demand for an identification protocol 
+
+A system addressing UAV-related threats must consist of several layers of protection, and the very first of these layers, right after sensing, is the demand for identification. While sensing can detect and classify, identification concerns establishing what exactly the object is. Hence, identification is an interactive process, enabling the establishment of trust between the observed vessel and the system that detected it. Furthermore, it allows for attribution to a concrete instance of a governance framework established on the ground. In other words, to unambiguously bind the vessel and its operator to a well-known jurisdiction capable of providing exhaustive information on both, when required.
+
 ### Goals
 
 #### Keep the DID protocol open source
